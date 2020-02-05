@@ -1,0 +1,13 @@
+1. Create a Name and Address data capture form. 
+    First name, Surname, Address, country, postcode, phone, email
+2. On submission of data, validate the fields correctly, both client and server side
+3. Report any issues back in the form
+4. Store the data in a permanent data store
+5. Create an admin report that contains the contents 
+    of the data store as a nicely formatted list
+6. Submit project to a repository and supply us with access
+7. Please style everything so it presents well and is clear, 
+    bonus points if responsive.
+8. Feel free to host a working demo somewhere and give us a link.
+9. Please comment thoroughly throughout the code 
+    and please do not use any pre-built classes
